@@ -1,4 +1,5 @@
 let shape = {
+    //shapeActual: undefined,
     drawShape: function() {
         let drawingSurface = getDrawingSurface();
         let c = this.drawShape();
