@@ -21,9 +21,9 @@ let octagon = {
     formation : "octagonal"
 }
 
-drawCircle = shape.Draw.bind(circle)
-drawRect = shape.Draw.bind(rectangle)
-drawOctagon = shape.Draw.bind(octagon)
-drawCircle()
-drawRect()
-drawOctagon()
+drawCircle = shape.Draw.bind(circle);
+drawRect = shape.Draw.bind(rectangle);
+drawOctagon = shape.Draw.bind(octagon);
+drawCircle();
+drawRect();
+drawOctagon();
